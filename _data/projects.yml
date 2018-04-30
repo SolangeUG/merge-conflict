@@ -14,3 +14,10 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  
+# OpenLMIS
+- project: OpenLMIS
+  role: Contributor
+  duration: February 2018 &mdash; Present
+  url: "http://openlmis.org"
+  description: OpenLMIS is a powerful, open source, cloud-based electronic logistics management information system (LMIS) purpose-built to manage health commodity supply chains.
